@@ -3,7 +3,7 @@ mcTStarMPPT
 
 ### an opensource app for controlling TriStarMPPT solar charge controllers
 
-### This is based on the related repo [https://github.com/snjagor/mcStarMPPT](https://github.com/snjagor/mcStarMPPT). Common code work is done there first.
+### This is based on the related repo [mcStarMPPT](https://github.com/snjagor/mcStarMPPT). Common code work is done there first.
 
 ## Requirements
 
